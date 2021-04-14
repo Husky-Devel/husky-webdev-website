@@ -46,17 +46,8 @@
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
-         <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div> 
- 
-
-</div>
+       
+ </div>
         <style>
 body {
   background-image: url('./Images/small-logo2.png');
@@ -71,19 +62,28 @@ body {
   </header>
   <main role="main">
     <section class="sec-intro" role="section">
-      <img src="" alt="West Rolleston is a great school but this img could not be found" />
+ 
       <footer>
         <div role="navigation">
           <ul class="nav-ul">
   </div>
 
 <div class="body">
- Welcome to my redesign of the school website click on one of the links above.
+ Welcome to my website click on one of the links above.
 </div>
 <div class="body">
   
 </div>
 <div class="body">
+
+     <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div> 
   
 <footer>
         <nav role="navigation">
