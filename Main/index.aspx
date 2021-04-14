@@ -47,12 +47,14 @@
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
         <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="https://husky-webdev.azurewebsites.net/.auth/login/google/callback">sign in</a>
-    <a href="Store.aspx">Store</a>
+ <div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="store.aspx">Store</a>
+    <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
+</div>
 </div>
         <style>
 body {
