@@ -46,15 +46,16 @@
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
-        <div class="dropdown">
- <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="store.aspx">Store</a>
+         <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
-</div>
+</div> 
+ 
+
 </div>
         <style>
 body {
