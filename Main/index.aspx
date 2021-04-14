@@ -3,7 +3,7 @@
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
-     <link rel="stylesheet" type="text/css" href="CSS/index.css" />
+     <link rel="stylesheet" type="text/css" href="CSS/drop.css" />
   </head>
 <body>
   <div class="wrapper">
