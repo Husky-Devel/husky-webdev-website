@@ -46,7 +46,7 @@
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
-       
+        <a href="/store/store.aspx">Store</a>
  </div>
         <style>
 body {
