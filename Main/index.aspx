@@ -40,10 +40,10 @@
 
       <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
-        <a href="Contact.aspx">Contact</a>
+        <a href="indev.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
-        <a href="Where-are-we.aspx">Where are we?</a>
+        <a href="Indev.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
         <a href="/main/store/store.aspx">Store</a>
  </div>
