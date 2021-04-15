@@ -11,7 +11,6 @@
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="" />
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -48,14 +47,7 @@
         <a href="/main/Dora/">Game</a>
         <a href="/store/store.aspx">Store</a>
  </div>
-        <style>
-body {
-  background-image: url('./Images/small-logo2.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: fit;
-}
-</style> 
+       
 
 
     </nav>
@@ -89,11 +81,18 @@ body {
         <nav role="navigation">
 
         </nav>
-        <p  Made by Husky,hosting by Microsoft azure      </p>
+        <p>  Made by Husky,hosting by Microsoft azure      </p>
       </footer>
 
 
-
+ <style>
+body {
+  background-image: url('./Images/small-logo2.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: fit;
+}
+</style> 
      
 </div>
 </body>
