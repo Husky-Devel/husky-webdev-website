@@ -57,15 +57,8 @@ body {
 }
 </style>  
 
-<div class="body">
- This page is in develment plz go back to the main home page this site will be up and wornking soon if want to see the sit click the link belowe
-</div>
-<div class="body">
-<a href=" Sineup.php ">Sign up IN DEV (Doses nothing)</a>
-</div>
-<div class="body">
-<a href=" Wrapper ">Just another test site check it out in Reference.php or click here</a>
-</div>
+  
+ This page is in develment plz go back to the main home page this site will be up and wornking soon 
   
 </div>
 </body>
