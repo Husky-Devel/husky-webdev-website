@@ -6,7 +6,7 @@
      <link rel="stylesheet" type="text/css" href="CSS/drop.css" />
   </head>
 <body>
-  <div class="wrapper">
+  <div></div> class="wrapper">
   <header role="banner">
     <nav role="navigation">
       <p>
@@ -90,14 +90,13 @@ body {
   background-image: url('./Images/small-logo2.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: fit;
+  background-size:;
 }
 </style> 
      
 </div>
 </body>
-</html>
-
+</!DOCTYPE html>
 
     
 
