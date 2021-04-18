@@ -6,7 +6,6 @@
      <link rel="stylesheet" type="text/css" href="CSS/drop.css" />
   </head>
 <body>
-  <div></div> class="wrapper">
   <header role="banner">
     <nav role="navigation">
       <p>
@@ -87,10 +86,10 @@
 
  <style>
 body {
-  background-image: url('./Images/small-logo2.png');
+  background-image: url('./Images/team-improved.bmp');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size:;
+  background-size:Fit;
 }
 </style> 
      
