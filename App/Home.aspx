@@ -29,6 +29,7 @@
         <a href="Indev.aspx">Where are we?</a>
         <a href="/App/Dora/">Game</a>
         <a href="/App/store/store.aspx">Store</a>
+        <a href="Https://bt.husky-webdev.tk">My other website</a>
  </div>
        
 
