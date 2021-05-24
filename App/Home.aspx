@@ -1,9 +1,9 @@
 <!DOCTYPE html>
   <head>
     <title>West Rolleston</title>
-    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
-     <link rel="stylesheet" type="text/css" href="CSS/drop.css" />
+    <link rel="stylesheet" type="text/css" href="/App/CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="/App/CSS/Topnav.css" />
+     <link rel="stylesheet" type="text/css" href="/App/CSS/drop.css" />
   </head>
 <body>
   <header role="banner">
@@ -22,13 +22,13 @@
 
 
       <div class="topnav">
-        <a class="active" href="index.aspx">Home</a>
+        <a class="active" href="/App/index.aspx">Home</a>
         <a href="indev.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Indev.aspx">Where are we?</a>
-        <a href="/main/Dora/">Game</a>
-        <a href="/main/store/store.aspx">Store</a>
+        <a href="/App/Dora/">Game</a>
+        <a href="/App/store/store.aspx">Store</a>
  </div>
        
 
