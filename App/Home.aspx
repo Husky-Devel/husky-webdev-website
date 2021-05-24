@@ -9,7 +9,7 @@
   <header role="banner">
     <nav role="navigation">
       <p>
-        <a href="index.aspx">
+        <a href="/App/index.aspx">
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -51,14 +51,7 @@
 </div>
 <div class="body">
 
-     <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div> 
+    
   
 <footer>
         <nav role="navigation">
@@ -70,7 +63,7 @@
 
  <style>
 body {
-  background-image: url('./Images/team-improved.bmp');
+  background-image: url('/App/Images/team-improved.bmp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:Fit;
