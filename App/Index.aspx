@@ -1,27 +1,10 @@
-
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<title></title>
-<style type="text/css">
-#form1 {
-height: 118px;
-}
-</style>
-</head>
-<body>
-<form id="form1" runat="server">
-Click image to visit Bt website<div>
-<br />
-</div>
-<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="\Images\your-logo.png" Height="64px" Width="158px" Imagealign=“Left” PostBackUrl="https://bt.husky-webdev.tk" />
-</form>
+<html>
+  <head>
+    </head>
+  <body>
+    <p>Please follow to  to my main  website<a href="/main/">Follow me</a>.</p>
+    <p>or follow to my BT website<a href="https://bt.husky-webdev.tk">Follow me</a>.</p>
 
-<form id="form1" runat="server">
-    Click image to visit Default website<div>
-    <br />
-    </div>
-    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="\Images\small-logo2.png" Height="64px" Width="158px" Imagealign=“Left” PostBackUrl="https://bt.husky-webdev.tk" />
-    </form>
-</body>
+  </body>
 </html>
