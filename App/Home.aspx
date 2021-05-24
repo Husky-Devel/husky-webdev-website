@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   <head>
-    <title>West Rolleston</title>
+    <title>Husky-webdev</title>
     <link rel="stylesheet" type="text/css" href="/App/CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="/App/CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="/App/CSS/drop.css" />
