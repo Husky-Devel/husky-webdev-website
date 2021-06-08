@@ -1,15 +1,15 @@
 <!DOCTYPE html>
   <head>
-    <title>West Rolleston</title>
-    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
-     <link rel="stylesheet" type="text/css" href="CSS/drop.css" />
+    <title>Husky-webdev</title>
+    <link rel="stylesheet" type="text/css" href="/App/CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="/App/CSS/Topnav.css" />
+     <link rel="stylesheet" type="text/css" href="/App/CSS/drop.css" />
   </head>
 <body>
   <header role="banner">
     <nav role="navigation">
       <p>
-        <a href="index.aspx">
+        <a href="/App/index.aspx">
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -22,13 +22,14 @@
 
 
       <div class="topnav">
-        <a class="active" href="index.aspx">Home</a>
+        <a class="active" href="/App/index.aspx">Home</a>
         <a href="indev.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Indev.aspx">Where are we?</a>
-        <a href="/main/Dora/">Game</a>
-        <a href="/main/store/store.aspx">Store</a>
+        <a href="/App/Dora/">Game</a>
+        <a href="/App/store/store.aspx">Store</a>
+        <a href="Https://bt.husky-webdev.tk">My other website</a>
  </div>
        
 
@@ -51,14 +52,7 @@
 </div>
 <div class="body">
 
-     <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div> 
+    
   
 <footer>
         <nav role="navigation">
@@ -70,7 +64,7 @@
 
  <style>
 body {
-  background-image: url('./Images/team-improved.bmp');
+  background-image: url('/App/Images/team-improved.bmp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:Fit;
