@@ -12,12 +12,32 @@
         <a href="index.aspx">
         </a>
       </p>
-    <!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-app.js"></script>
+ <!-- Messenger Chat plugin Code -->
+ <div id="fb-root"></div>
 
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-analytics.js"></script>
+ <!-- Your Chat plugin code -->
+ <div id="fb-customer-chat" class="fb-customerchat">
+ </div>
+
+ <script>
+   var chatbox = document.getElementById('fb-customer-chat');
+   chatbox.setAttribute("page_id", "103998111917030");
+   chatbox.setAttribute("attribution", "biz_inbox");
+   window.fbAsyncInit = function() {
+     FB.init({
+       xfbml            : true,
+       version          : 'v11.0'
+     });
+   };
+
+   (function(d, s, id) {
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) return;
+     js = d.createElement(s); js.id = id;
+     js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+ </script>
 
 
 
