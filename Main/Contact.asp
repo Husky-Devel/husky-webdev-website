@@ -70,64 +70,18 @@ body {
 
         <body>
 
-          <body>
+
             <h4>
-              West Rolleston Primary School
+             Email
           </h4>
           </h4>
 
-
-
-          <body>
-            <h4>
-              Corner of Dunns Crossing and Burnham School Roads
-          </body>
-          </h4>
+         <h4>
+           Husky@husky-webdev.codes
+         </h4>
 
 
 
-          <body>
-            <h4>
-              327 Dunns Crossing Road, RD 8, Christchurch 7678
-          </h4>
-          </h4>
-
-          <h4>
-            <h4>
-              Phone: (03) 595 0952
-          </body>
-          </body>
-
-
-          <body>
-            <h4>
-              email: office@westrolleston.school.nz
-          </body>
-          </h4>
-
-          <body>
-            <h4>
-              Principal : Sylvia Fidow
-          </body>
-          </h4>
-
-          <body>
-            <body>
-              email: sylviafidow@westrolleston.school.nz
-          </body>
-          </h4>
-
-          <body>
-            <h4>
-              Account Information
-          </body>
-          </h4>
-
-          <body>
-            <h4>
-              email: accounts@westrolleston.school.nz
-          </body>
-          </h4>
 
       </div>
 
@@ -140,6 +94,6 @@ body {
         <nav role="navigation">
 
         </nav>
-        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+        <p class="copy">&copy; Made by Husky-webdev,hosting by Microsoft azure      </p>
       </footer>
         <div class="line"></div>
