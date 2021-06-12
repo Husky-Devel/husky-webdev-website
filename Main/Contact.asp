@@ -61,7 +61,7 @@ body {
   </header>
   <main role="main">
     <class="sec-intro" role="section">
-      <img src="Images/small-logo2.png" alt="Images/small-logo2.png/>" />
+      <img src="./Images/small-logo2.png" alt="Images/small-logo2.png/>" />
       <div>
         <p>
           Contact
