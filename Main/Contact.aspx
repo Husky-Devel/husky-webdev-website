@@ -45,19 +45,10 @@
         <a href="Contact.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
         <a href="Where-are-we.aspx">Where are we?</a>
-        <a href="Indev.aspx">Sign up</a>
+        <a href="https://azureb2chuskywebdev.b2clogin.com/azureb2chuskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Husky_webdev&client_id=f322b4f3-38cb-40ca-9395-dd378de8d198&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fweb.husky-webdev.codes%2Fmain&scope=openid&response_type=code&prompt=login">Sign up</a>
         <a href="Test-hide.aspx">The ambassadors</a>
         <a href="Store.aspx">Store </a>
-        <style>
-body {
-  background-image: url('./Images/small-logo2.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: fit;
-}
-</style> 
-
-    </nav>
+      </nav>
   </header>
   <main role="main">
     <class="sec-intro" role="section">
