@@ -13,7 +13,10 @@
         </a>
       </p>
 
-
+      <main role="main">
+        <class="sec-intro" role="section">
+          <img src="./Images/small-logo2.png" alt="Images/small-logo2.png/>" />
+          <div>
 
 
       <div class="topnav">
@@ -25,7 +28,7 @@
          </div>
        
 
-
+1
     </nav>
   </header>
   <main role="main">
@@ -54,14 +57,7 @@
       </footer>
 
 
- <style>
-body {
-  background-image: url('./Images/team-improved.bmp');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:Fit;
-}
-</style> 
+ 
      
 </div>
 </body>
