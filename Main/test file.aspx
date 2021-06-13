@@ -1,4 +1,4 @@
-The web is up but are you? please go away to the-husky-nextycloud.tk thank you
+The web is up but are you? please go away to https://web.husky-webdev.code or email  <p><a href="mailto:husky@husky-webdev.codes">Got an erra</a>.</p> thank you
 
 
 

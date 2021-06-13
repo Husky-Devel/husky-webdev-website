@@ -18,13 +18,11 @@
 
       <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
-        <a href="indev.aspx">Contact</a>
+        <a href="Contact.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
-        <a href="Indev.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
-        <a href="/main/store/store.aspx">Store</a>
- </div>
+         </div>
        
 
 
@@ -46,14 +44,7 @@
 </div>
 <div class="body">
 
-     <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div> 
+    
   
 <footer>
         <nav role="navigation">
