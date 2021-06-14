@@ -40,6 +40,11 @@
   firebase.analytics();
 </script>
 
+<main role="main">
+  <class="sec-intro" role="section">
+    <img src="./Images/small-logo2.png" alt="Images/small-logo2.png/>" />
+    <div>
+
       <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
         <a href="Contact.aspx">Contact</a>
@@ -50,10 +55,7 @@
         <a href="Store.aspx">Store </a>
       </nav>
   </header>
-  <main role="main">
-    <class="sec-intro" role="section">
-      <img src="./Images/small-logo2.png" alt="Images/small-logo2.png/>" />
-      <div>
+  
         <p>
           Contact
         </p>
