@@ -57,13 +57,8 @@
         }
         </style> 
         <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-        <iframe src='https://petergallwasdev-my.sharepoint.com/:w:/g/personal/husky_husky-webdev_codes/EalHqHSRJQNNvj1qse9bSnsBbENPpXSfxf3fl05llN7WoQ?e=hYBWyG' width='1366px' height='623px' frameborder='0'>
-This is an embedded
-<a target='_blank' href='http://office.com'>Microsoft Office</a>
-document, powered by
-<a target='_blank' href='http://office.com/webapps'>Office Online<
-    </head>
-    
+        <iframe src='https://bt.husky-webdev.codes' width='1366px' height='623px' frameborder='0'>
+T
     <body></body>
     <footer>
         <nav role="navigation">
