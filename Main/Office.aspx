@@ -57,7 +57,7 @@
         }
         </style> 
         <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-        <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://petergallwasdev-my.sharepoint.com/:w:/g/personal/husky_husky-webdev_codes/EalHqHSRJQNNvj1qse9bSnsBbENPpXSfxf3fl05llN7WoQ?e=hYBWyG' width='1366px' height='623px' frameborder='0'>
+        <iframe src='https://petergallwasdev-my.sharepoint.com/:w:/g/personal/husky_husky-webdev_codes/EalHqHSRJQNNvj1qse9bSnsBbENPpXSfxf3fl05llN7WoQ?e=hYBWyG' width='1366px' height='623px' frameborder='0'>
 This is an embedded
 <a target='_blank' href='http://office.com'>Microsoft Office</a>
 document, powered by
