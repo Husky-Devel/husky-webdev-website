@@ -57,7 +57,11 @@
         }
         </style> 
         <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-        <iframe src="https://www.office.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
+        <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://petergallwasdev-my.sharepoint.com/:w:/g/personal/husky_husky-webdev_codes/EalHqHSRJQNNvj1qse9bSnsBbENPpXSfxf3fl05llN7WoQ?e=hYBWyG' width='1366px' height='623px' frameborder='0'>
+This is an embedded
+<a target='_blank' href='http://office.com'>Microsoft Office</a>
+document, powered by
+<a target='_blank' href='http://office.com/webapps'>Office Online<
     </head>
     
     <body></body>
