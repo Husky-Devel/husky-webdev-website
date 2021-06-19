@@ -46,7 +46,7 @@
 </style> 
  
 
-  p>This is my discord</p>
+  <p>This is my discord</p>
 <a href="https://tiny.one/Husky-webdev-rick" target="_blank">
 	<button>Click me!</button>
   </p>  
