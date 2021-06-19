@@ -13,7 +13,7 @@
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="/images/husky-webdev.png" />
+          <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" />
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
