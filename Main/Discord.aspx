@@ -46,14 +46,9 @@
 </style> 
  
 
-  <div class="body">
-   <p>
-    https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico
-
-    <div class="container">
-        <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Snow">
-        <button class="https://discord.gg/zqdVa6Rr">Button</button>
-      </div>
+  p>This is my discord</p>
+<a href="https://tiny.one/Husky-webdev-rick" target="_blank">
+	<button>Click me!</button>
   </p>  
   <p>
   </p>
