@@ -2,7 +2,7 @@
 <html>
   <!DOCTYPE html>
   <head>
-    <title>West Rolleston</title>
+    <title>Husky-webdev</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Button.css" />
