@@ -1,2 +1,11 @@
-
-<html lang="en" dir="ltr"><head><title>This page is coming soon</title><style nonce="k22ODXHwh/hSrFgA6iq49w">*{margin:0;padding:0;border:0}html,body{height:100%;}</style><link rel="shortcut icon" href="https://www.youtube.com/img/favicon.ico" type="image/x-icon"><link rel="icon" href="https://www.youtube.com/img/favicon_32.png" sizes="32x32"><link rel="icon" href="https://www.youtube.com/img/favicon_48.png" sizes="48x48"><link rel="icon" href="https://www.youtube.com/img/favicon_96.png" sizes="96x96"><link rel="icon" href="https://www.youtube.com/img/favicon_144.png" sizes="144x144"></head><body><iframe style="display:block;border:0;" src="/error?src=404&amp;ifr=1&amp;error=" width="100%" height="100%" frameborder="\" scrolling="no"></iframe></body></html>
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Comeing soon!!! Stay tooend</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>Coming soon</b> <ins>That’s an Feacher.</ins>
+  <p>The requested Page was not found on this server yet.  <ins>That’s all I know.</ins>
