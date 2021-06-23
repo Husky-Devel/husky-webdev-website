@@ -22,15 +22,10 @@
 
       <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
-        <a href="Contact.aspx">Contact</a>
+        <a href="#">Coming soon</a>
         <a href="/main/Dora/">Game</a>   
-        <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Other</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Source code</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
+        
+ 
 </div>
               
            </div>
@@ -48,7 +43,7 @@
   </div>
 
 <div class="body">
- Welcome to my website click on one of the links above.
+ Welcome to my website click on one of the links above. Note this website is in Develment thing will change!!
 </div>
 <div class="body">
   
