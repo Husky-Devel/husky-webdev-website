@@ -22,7 +22,7 @@
 
       <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
-        <a href="#">Coming soon</a>
+        <a href="/main/Comeing soon.aspx">Coming soon</a>
         <a href="/main/Dora/">Game</a>   
         
  
