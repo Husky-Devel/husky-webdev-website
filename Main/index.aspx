@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
-    <script src="/main/Dropdown.js"></script>
+    
   </head>
 <body>
   <header role="banner">
