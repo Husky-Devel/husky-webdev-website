@@ -9,3 +9,6 @@
   <a href=//web.husky-webdev.codes/main/images/small-logo2.png/><span id=logo aria-label=Husky-webdev></span></a>
   <p><b>Coming soon</b> 
 <p>The requested Page was not found on this server yet. </p>
+<p>Back</p>
+<a href="https://web.husky-webdev.codes" target="_blank">
+	<button>Back</button>
