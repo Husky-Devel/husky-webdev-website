@@ -24,6 +24,7 @@
         <a class="active" href="index.aspx">Home</a>
         <a href="https://web.husky-webdev.codes/main/Coming%20soon.aspx">Coming soon</a>
         <a href="/main/Dora/">Game</a> 
+        <a href="https://azureb2chuskywebdev.b2clogin.com/azureb2chuskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Husky_webdev&client_id=f322b4f3-38cb-40ca-9395-dd378de8d198&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fweb.husky-webdev.codes%2Fmain&scope=openid&response_type=code&prompt=login">Sign in</a>
         <div class="dropdown">
           <div class="dropdown">
             <button class="dropbtn">Dropdown</button>
