@@ -5,6 +5,8 @@
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
     
+    <img src="/Images/small-logo2.png" />
+    
     
     
   </head>
