@@ -31,8 +31,7 @@
                 <div class="sub-menu-1">
                     <ul>
                         <li><a href="Coming soon.aspx">Coming soon</a></li>
-                        <li><a href="Coming soon.aspx">Comeing soon</a></li>
-                        <li><a href="Coming soon.aspx">comeing soon</a></li>
+              
                     </ul>
                 </div>
  
@@ -40,31 +39,12 @@
             </li>
  
  
-            <li> <a href="#"><i class="fa fa-clone"></i>Services</a>
-                <div class="sub-menu-1">
-                    <ul>
-                        <li><a href="#">Web Design</a></li>
-                        <li class="hover-me"><a href="#">Email<i class="fa fa-angle-right"></i></a>
+                           <li class="hover-me"><a href="#">App<i class="fa fa-angle-right"></i></a>
  
                             <div class="sub-menu-2">
                                 <ul>
-                                    <li><a href="Coming soon.aspx">Comeing soon</a></li>
-                                    <li><a href="Coming soon.aspx">Comeing soong</a></li>
-                                    <li><a href="Mailto:husky@husky-webdev.codes">Email </a></li>
-                                </ul>
-                            </div>
- 
- 
-                        </li>
-                        <li class="hover-me"><a href="Coming soon.aspx">Comeing soon<i class="fa fa-angle-right"></i></a>
- 
-                            <div class="sub-menu-2">
-                                <ul>
-                                    <li><a href="#">Android App</a></li>
-                                    <li><a href="#">Ios App</a></li>
-                                    <li><a href="#">Window App</a></li>
-                                    <li><a href="#">Unity App</a></li>
-                                    <li><a href="#">Iconic App</a></li>
+                                    <li><a href="https://github.com/Husky-Devel/husky-webdev-website/releases/download/2.0/Husky-webdev.2.0.exe">Windows App</a></li>
+                 
  
                                 </ul>
                             </div>
