@@ -60,10 +60,7 @@
  
  
  
-            <li> <a href="Coming soon.aspx"><i class="fa fa-angellist"></i>Coming soon</a> </li>
-            <li> <a href="Coming soon.aspx"><i class="fa fa-inr"></i>Coming soon</a> </li>
-            <li> <a href="Coming soon.aspx"><i class="fa fa-edit"></i>Coming soon</a> </li>
-            <li> <a href="Coming soon.aspx"><i class="fa fa-phone"></i>Coming soon</a> </li>
+          
  
  
  
