@@ -10,5 +10,5 @@
   <p><b>Coming soon</b> 
 <p>The requested Page was not found on this server yet. </p>
 
-<a href="index.aspx" target="_blank">
+<a href="index.aspx">
 	<button>Back</button>
