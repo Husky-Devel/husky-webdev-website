@@ -25,14 +25,14 @@
 
       <div class="menu-bar">
         <ul>
-            <li> <a href="#"><i class="fa fa-home"></i>Home</a> </li>
+            <li> <a href="https://web.husky-webdev.codes/main"><i class="fa fa-home"></i>Home</a> </li>
  
             <li> <a href="#"><i class="fa fa-user"></i>About</a>
                 <div class="sub-menu-1">
                     <ul>
-                        <li><a href="#">Mission</a></li>
-                        <li><a href="#">Vission</a></li>
-                        <li><a href="#">Team</a></li>
+                        <li><a href="Coming soon.aspx">Coming soon</a></li>
+                        <li><a href="Coming soon.aspx">Comeing soon</a></li>
+                        <li><a href="Coming soon.aspx">comeing soon</a></li>
                     </ul>
                 </div>
  
@@ -44,19 +44,19 @@
                 <div class="sub-menu-1">
                     <ul>
                         <li><a href="#">Web Design</a></li>
-                        <li class="hover-me"><a href="#">Marketing<i class="fa fa-angle-right"></i></a>
+                        <li class="hover-me"><a href="#">Email<i class="fa fa-angle-right"></i></a>
  
                             <div class="sub-menu-2">
                                 <ul>
-                                    <li><a href="#">SEO</a></li>
-                                    <li><a href="#">Social Marketing</a></li>
-                                    <li><a href="#">Email Marketing</a></li>
+                                    <li><a href="Coming soon.aspx">Comeing soon</a></li>
+                                    <li><a href="Coming soon.aspx">Comeing soong</a></li>
+                                    <li><a href="Mailto:husky@husky-webdev.codes">Email </a></li>
                                 </ul>
                             </div>
  
  
                         </li>
-                        <li class="hover-me"><a href="#">Mobile App<i class="fa fa-angle-right"></i></a>
+                        <li class="hover-me"><a href="Coming soon.aspx">Comeing soon<i class="fa fa-angle-right"></i></a>
  
                             <div class="sub-menu-2">
                                 <ul>
@@ -80,10 +80,10 @@
  
  
  
-            <li> <a href="#"><i class="fa fa-angellist"></i>Clints</a> </li>
-            <li> <a href="#"><i class="fa fa-inr"></i>Pricing</a> </li>
-            <li> <a href="#"><i class="fa fa-edit"></i>Training</a> </li>
-            <li> <a href="#"><i class="fa fa-phone"></i>Contact</a> </li>
+            <li> <a href="Coming soon.aspx"><i class="fa fa-angellist"></i>Coming soon</a> </li>
+            <li> <a href="Coming soon.aspx"><i class="fa fa-inr"></i>Coming soon</a> </li>
+            <li> <a href="Coming soon.aspx"><i class="fa fa-edit"></i>Coming soon</a> </li>
+            <li> <a href="Coming soon.aspx"><i class="fa fa-phone"></i>Coming soon</a> </li>
  
  
  
