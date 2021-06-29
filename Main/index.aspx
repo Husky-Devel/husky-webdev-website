@@ -8,16 +8,12 @@
     
     
   </head>
-<!-- Load an icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://web.husky-webdev.codes/CSS/Topnavs2.css">
-
-<div class="navbar">
-  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
-  <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
-  <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a>
-  <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
-</div>
+<div class="topnav">
+        <a class="active" href="index.aspx">Home</a>
+        <a href="Contact.aspx">Contact</a>
+        <a href="About-us.aspx">About </a> 
+        <a href="Where-are-we.aspx">Where are we?</a>
+        <a href="https://azureb2chuskywebdev.b2clogin.com/azureb2chuskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Husky_webdev&client_id=f322b4f3-38cb-40ca-9395-dd378de8d198&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fweb.husky-webdev.codes%2Fmain&scope=openid&response_type=code&prompt=login">Sign up<>
 
 <div class="body">
  Welcome to my website click on one of the links above. Note this website is in Develment!!! Thing's will change!!!!!
