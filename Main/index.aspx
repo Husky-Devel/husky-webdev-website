@@ -4,8 +4,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
-    <script src="https://kit.fontawesome.com/e48d166edc.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="CSS/Test.css">
+    
     
     
   </head>
