@@ -39,7 +39,7 @@
             </li>
  
  
-                           <li class="hover-me"><a href="#">App<i class="fa fa-angle-user"></i></a>
+                           <li class="hover-me"><a href="#">App<i class="fa fa"></i></a>
  
                             <div class="sub-menu-2">
                                 <ul>
