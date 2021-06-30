@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
     
-    <img src="https://web.husky-webdev.codes/main/Images/small-logo2.png" />
+    <img src="https://raw.githubusercontent.com/Husky-Devel/husky-webdev-website/master/Main/Images/small-logo2.png" />
     
     
     
