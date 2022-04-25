@@ -1,1 +1,5 @@
-This repo is very very outdated all code of new sites is not in my github repo look here insed https://dev.azure.com/HuskyNZ/HuskyNZ This repo will be arcived the apps in the releses are not working and updated ones are on my new site at https://www.husky.nz some of this site may be used so the repo will not be dleted but will be arcived
+This is genV0.1 of HuskyNZ's main Site it was archived on Husky-Devel but now will live here, Most iof this code is outdated thing dont work.
+
+For Up to date code,info,and more go to the main gnew repo below
+
+https://github.com/HuskyNZofficial/hunzg2
