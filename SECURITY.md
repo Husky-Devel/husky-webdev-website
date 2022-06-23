@@ -1,16 +1,8 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
+This repo hosts gen 0.1 of my code its very outdated and is not supported the code is messey
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0     | :white_check_mark: |
-| Pr0.3.0-0.3.2  | :white_check_mark: |
+| 1.0     | :x: |
+| Pr0.3.0-0.3.2  |:x:|
 
-
-## Reporting a Vulnerability
-
-If you find a issue with my code plz email me at Husky@husky-email.tk
